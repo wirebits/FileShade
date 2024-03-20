@@ -15,16 +15,13 @@ There are 4 parameters after command ```python``` (windows) or ```python3``` (Li
 2. **-e** - Encode the input.<br>
 3. **-d** - Decode the input.<br>
 4. **-p password** - The password set on the text/text file.<br>
-5. **-i "Text"/.txt** - The string / .txt file want to encode / decode.<br>
-While using string, put your text inside "".<br>
-For example, if you want to encode ```Hello``` then, ```"Hello"```.<br>
-Give any name you want to that output_file.<br>
+5. **-i file_name** - The file name want to encode / decode.<br>
 
 <h1>Install and Run</h1>
 1. Download or Clone the Repository.<br>
 2. Open the folder.<br>
 3. Open CMD/Powershell (Windows) or Terminal (Linux) in that folder.<br>
-4. To<br>
+
 ## Encode<br>
 
 ```
